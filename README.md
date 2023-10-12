@@ -6,3 +6,5 @@ It's a simple weather app in Angular that uses Open Weather Map API.
 # How to run
 ``` ng serve -o ```
 
+# How to create a service
+```ng g s <name of the service>```
